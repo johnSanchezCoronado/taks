@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taks/static/css/main.2d128692.css",
+    "main.js": "/taks/static/js/main.1aaee046.js",
+    "index.html": "/taks/index.html",
+    "main.2d128692.css.map": "/taks/static/css/main.2d128692.css.map",
+    "main.1aaee046.js.map": "/taks/static/js/main.1aaee046.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d128692.css",
+    "static/js/main.1aaee046.js"
+  ]
+}
