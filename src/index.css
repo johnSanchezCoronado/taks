@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(50deg, #303030, #620000);
+  margin: 0;
+  padding: 0;
+  /* background: #F2F4F5; */
+  color: #1E1E1F;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
+#root {
+  margin: 0 auto;
+  position: relative;
+  min-height: 100vh;
+  background-color: #0000002e;
+  padding: 0px 45px;
+}

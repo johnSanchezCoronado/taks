@@ -1,0 +1,12 @@
+.TodoList {
+    margin: 0;
+    padding: 0 0 56px 0;
+    list-style: none;
+}
+
+.TodoList.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15rem;
+}
